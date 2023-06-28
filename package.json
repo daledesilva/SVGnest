@@ -1,0 +1,20 @@
+{
+    "name": "svg-nest",
+    "version": "1.0.0",
+    "description": "A package for SVG nesting",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/daledesilva/SVGnest.git",
+      "private": true
+    },
+    "keywords": [
+      "SVG",
+      "nesting"
+    ],
+    "author": "Jack000",
+    "license": "MIT"
+  }
